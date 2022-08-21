@@ -3,8 +3,8 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "22.06.2004"; // Дата рождения
-var fullname = "Круглов Кирило Романович" // ФИО
+var birthdate = "25.03.2004"; // Дата рождения
+var fullname = "Владислав Крижановький Анатолійович" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
