@@ -4,7 +4,7 @@ var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
 var birthdate = "22.06.2004"; // Дата рождения
-var fullname = "Круглов Кирилл Романович" // ФИО
+var fullname = "Круглов Кирило Романович" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
