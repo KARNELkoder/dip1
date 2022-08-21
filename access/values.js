@@ -3,8 +3,8 @@ var isRightsEnabled = true; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "17.08.2003"; // Дата рождения
-var fullname = "Кичко Дарина Леонідівна" // ФИО
+var birthdate = "22.06.2004"; // Дата рождения
+var fullname = "Круглов Кирилл Романович" // ФИО
 var name = "Имя" // Имя
 
 // Паспорт
